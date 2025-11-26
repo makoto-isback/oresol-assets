@@ -1,0 +1,12 @@
+{
+  "name": "oreSOL",
+  "symbol": "oreSOL",
+  "description": "Liquid restaked SOL that accumulates ORE",
+  "image": "https://raw.githubusercontent.com/makoto-isback/oresol-assets/main/oresol-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/makoto-isback/oresol-assets/main/oresol-logo.png", "type": "image/png" }
+    ]
+  }
+}
