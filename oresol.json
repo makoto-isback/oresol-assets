@@ -2,11 +2,11 @@
   "name": "oreSOL",
   "symbol": "oreSOL",
   "description": "Liquid restaked SOL that accumulates ORE",
-  "image": "https://raw.githubusercontent.com/makoto-isback/oresol-assets/main/oresol-logo.png",
+  "image": "https://emerald-bizarre-duck-386.mypinata.cloud/ipfs/bafkreigmpvmz26olehssxdcj6cityduzbg3j3ebe2bwb2l56c7mxicd7le",
   "attributes": [],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/makoto-isback/oresol-assets/main/oresol-logo.png", "type": "image/png" }
+      { "uri": "https://emerald-bizarre-duck-386.mypinata.cloud/ipfs/bafkreigmpvmz26olehssxdcj6cityduzbg3j3ebe2bwb2l56c7mxicd7le", "type": "image/png" }
     ]
   }
 }
